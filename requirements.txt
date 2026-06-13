@@ -16,6 +16,9 @@ tweepy>=4.14.0
 # data_collection/sns_scrape.py
 snscrape>=0.6.2
 
+# data_processing/Maandamano_Analysis.ipynb
+neattext>=0.0.60
+
 # model_evaluation.py | evaluation_utils.py
 scikit-learn>=1.0.0
 nltk>=3.8.0
